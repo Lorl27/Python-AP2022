@@ -1,0 +1,8 @@
+Nombre y apellido: Brenda Castillo. Fecha: 2020-12-31 17:01:25.102231. Tipo de la misión: recreativa.
+Nombre y apellido: Martín Arévalo. Fecha: 2021-01-01 00:05:02.808846. Tipo de la misión: recreativa.
+Nombre y apellido: Anabella Santino. Fecha: 2021-01-02 09:34:19.102231. Tipo de la misión: comercial.
+Nombre y apellido: Melanie Roca. Fecha: 2021-01-02 14:20:00.154787. Tipo de la misión: comercial.
+Nombre y apellido: Juanfer Choque. Fecha: 2021-01-04 08:00:46.564578. Tipo de la misión: educativa.
+Nombre y apellido: Diego Salvador. Fecha: 2021-01-04 09:10:30.872156. Tipo de la misión: comercial.
+Nombre y apellido: Tiziana Dolce. Fecha: 2021-01-04 11:00:42.808426. Tipo de la misión: recreativa.
+Nombre y apellido: Yamil Alcaraz. Fecha: 2021-01-04 15:11:18.603587. Tipo de la misión: educativa.

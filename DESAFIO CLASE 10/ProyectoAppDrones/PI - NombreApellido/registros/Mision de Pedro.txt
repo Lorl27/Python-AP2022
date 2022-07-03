@@ -1,0 +1,5 @@
+Misión inicia fecha: 2020-02-25 19:05:47.236215
+Pedro despegó 2020-02-25 19:05:54.439283
+Pedro tomó una foto 2020-02-25 19:05:58.517440
+Pedro tomó una foto 2020-02-25 19:05:59.392415
+Pedro aterrizó 2020-02-25 19:06:00.954911

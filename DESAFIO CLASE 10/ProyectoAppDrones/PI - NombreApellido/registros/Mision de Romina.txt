@@ -1,0 +1,3 @@
+Misión inicia fecha: 2020-02-25 19:04:13.876880
+Romina despegó 2020-02-25 19:04:22.595576
+Romina aterrizó 2020-02-25 19:04:36.829939
